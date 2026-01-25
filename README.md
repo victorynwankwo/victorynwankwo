@@ -28,11 +28,4 @@ React
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React patterns
-- TypeScript for large apps
-- System design basics
-- Performance optimization
-
----
 
