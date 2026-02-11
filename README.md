@@ -17,7 +17,7 @@ JavaScript (ES6+)
 
 React 
 
-
+Typescript
 ---
 
 ## 📌 What I Do
