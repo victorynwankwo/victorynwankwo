@@ -1,6 +1,6 @@
 # Hi 👋 I'm Victory Nwankwo
 
-### Backend Developer | Node.js · Express · MongoDB
+### Backend Developer | Node.js · Express · MongoDB . PostgreSQL
 
 I build robust, secure, and scalable REST APIs. My primary focus is backend development — designing clean API architectures, handling authentication, and managing databases. I also build interfaces with React when needed.
 
